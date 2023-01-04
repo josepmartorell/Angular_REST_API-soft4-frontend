@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-const API_URL = 'http://jx11-env.eba-6nnp8tbt.eu-west-1.elasticbeanstalk.com/api/test/';
+const API_URL = 'https://ls24-env.eba-tpjngynw.eu-west-1.elasticbeanstalk.com/api/test/';
 
 @Injectable({
   providedIn: 'root'
